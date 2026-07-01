@@ -1,0 +1,6 @@
+{
+  "name": "BIOXZ",
+  "description": "An enterprise-grade Bioinformatics AI platform for analyzing DNA, RNA, proteins, and scientific literature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
